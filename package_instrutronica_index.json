@@ -9,14 +9,14 @@
       "platforms":
       [
         {
-          "name": "instrutronica AVR Boards",
+          "name": "Instrutronica AVR Boards",
           "architecture": "avr",
-          "version": "1.0.1",
+          "version": "1.0.2",
           "category": "Contributed",
-          "url": "https://github.com/Instrutronica/hardware_definition_v1.0.1/raw/master/instrutronica_v1.0.1.zip",
-          "archiveFileName": "instrutronica_v1.0.1.zip",
-          "checksum": "SHA-256:E90909535852AD0BFD993FD03635E8F4FAE1F2B1B3FD2195AF1B4766FB537BF4",
-          "size": "1210121",
+          "url": "https://github.com/Instrutronica/hardware_definition_v1.0.2/raw/main/instrutronica_v1.0.2.zip",
+          "archiveFileName": "instrutronica_v1.0.2.zip",
+          "checksum": "SHA-256:4E7F7C71690232845E74156402AFB20EA9075249F3F7782286E4605681FBD448",
+          "size": "4415230",
           "boards": [
             {
               "name": "Eagle Plus"
