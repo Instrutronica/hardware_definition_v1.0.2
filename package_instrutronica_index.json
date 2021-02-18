@@ -32,6 +32,38 @@
       "tools":
       [
       ]
+    },
+    {
+      "name": "instrutronica",
+      "maintainer": "instrutronica",
+      "websiteURL": "https://instrutronica.com",
+      "email": "instrutronica@gmail.com",
+      "platforms":
+      [
+        {
+          "name": "Instrutronica AVR Boards",
+          "architecture": "avr",
+          "version": "1.0.3",
+          "category": "Contributed",
+          "url": "https://github.com/Instrutronica/hardware_definition_v1.0.2/raw/main/instrutronica_v1.0.3.zip",
+          "archiveFileName": "instrutronica_v1.0.3.zip",
+          "checksum": "SHA-256:F59B4314D56FACB67D04D9BBDB9E6F948DEA7E5D34FE892F1A62D531EC5C8FAC",
+          "size": "4415490",
+          "boards": [
+            {
+              "name": "Eagle Plus"
+            },
+            {
+              "name": "Pigeon"
+            }
+          ],
+          "toolsDependencies": []
+        }
+
+      ],
+      "tools":
+      [
+      ]    
     }
   ]
 }
