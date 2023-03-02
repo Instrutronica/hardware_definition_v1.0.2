@@ -4,7 +4,7 @@
     {
       "name": "instrutronica",
       "maintainer": "instrutronica",
-      "websiteURL": "https://instrutronica.com",
+      "websiteURL": "https://app.instrutronica-iot.com",
       "email": "instrutronica@gmail.com",
       "platforms":
       [
@@ -36,7 +36,7 @@
     {
       "name": "instrutronica",
       "maintainer": "instrutronica",
-      "websiteURL": "https://instrutronica.com",
+      "websiteURL": "https://app.instrutronica-iot.com",
       "email": "instrutronica@gmail.com",
       "platforms":
       [
@@ -68,7 +68,7 @@
     {
       "name": "instrutronica",
       "maintainer": "instrutronica",
-      "websiteURL": "https://instrutronica.com",
+      "websiteURL": "https://app.instrutronica-iot.com",
       "email": "instrutronica@gmail.com",
       "platforms":
       [
@@ -96,6 +96,38 @@
       "tools":
       [
       ]    
-    }
+    },
+    {
+      "name": "instrutronica",
+      "maintainer": "instrutronica",
+      "websiteURL": "https://app.instrutronica-iot.com",
+      "email": "instrutronica@gmail.com",
+      "platforms":
+      [
+        {
+          "name": "Instrutronica AVR Boards",
+          "architecture": "avr",
+          "version": "1.0.5",
+          "category": "Contributed",
+          "url": "https://github.com/Instrutronica/hardware_definition_v1.0.2/raw/main/instrutronica_v1.0.5.zip",
+          "archiveFileName": "instrutronica_v1.0.5.zip",
+          "checksum": "SHA-256:93189C91A4C6DFBE026F7940977068E8B828A110692109D710FF2D102067EDA7",
+          "size": "4867552",
+          "boards": [
+            {
+              "name": "Eagle Plus"
+            },
+            {
+              "name": "Pigeon"
+            }
+          ],
+          "toolsDependencies": []
+        }
+
+      ],
+      "tools":
+      [
+      ]    
+    }    
   ]
 }
